@@ -18,9 +18,9 @@ html, body{
     box-sizing: border-box;
     overflow: hidden;
 }
-.wrapper .pics .small-pics{
+/* .wrapper .pics .small-pics{
 
-}
+} */
 .show{
     display: none;
     position: absolute;
